@@ -1,0 +1,293 @@
+﻿---------------------------------------
+  Algodoo v2.2.4, Win32
+  August 19 2025, 17:09:27
+---------------------------------------
+    3450 ms: Qt: 
+    3450 ms: 
+    3450 ms: GL Type: desktop
+    3450 ms: Surface Type: OpenGL
+    3450 ms: Surface Profile: CompatibilityProfile
+    3450 ms: Surface Version: 4.6
+    3450 ms: QSG RHI Backend: OpenGL
+    3450 ms: Using Supported QSG Backend: yes
+    3450 ms: Using Software Dynamic GL: no
+    3450 ms: Using Multithreaded OpenGL: yes
+    3450 ms: 
+    3450 ms: Init Parameters:
+    3450 ms:   *  application-name Algodoo 
+    3450 ms:   *  browser-subprocess-path C:\Program Files\Algodoo\QtWebEngineProcess.exe 
+    3450 ms:   *  create-default-gl-context  
+    3450 ms:   *  disable-es3-gl-context  
+    3450 ms:   *  disable-features ConsolidatedMovementXY,InstalledApp,BackgroundFetch,WebOTP,WebPayments,WebUSB,PictureInPicture 
+    3450 ms:   *  disable-speech-api  
+    3450 ms:   *  enable-features NetworkServiceInProcess,TracingServiceInProcess 
+    3450 ms:   *  enable-threaded-compositing  
+    3450 ms:   *  in-process-gpu  
+    3450 ms:   *  use-gl desktop 
+
+    3450 ms: Timer type: HPC
+    3450 ms: Timer overhead: 22.42 ns
+    3450 ms: Process attached to CPU 7
+    3450 ms: CalcWorkDir
+    3450 ms: GetExecutablePath
+    3450 ms: Creating directory "Algodoo/"...
+    3450 ms: Creating directory "Algodoo/chains/"...
+    3450 ms: Creating directory "Algodoo/data/"...
+    3450 ms: Creating directory "Algodoo/data/language/"...
+    3450 ms: Creating directory "Algodoo/materials/"...
+    3450 ms: Creating directory "Algodoo/palettes/"...
+    3450 ms: Creating directory "Algodoo/scenes/"...
+    3450 ms: Creating directory "Algodoo/scenes/phunlets/"...
+    3450 ms: Creating directory "Algodoo/skins/"...
+    3450 ms: Creating directory "Algodoo/textures/"...
+    3450 ms: Creating directory "Algodoo/cookies/"...
+    3450 ms: Creating directory "Algodoo/screenshots/"...
+    3450 ms: - WARNING - Error loading language Español: Failed to find "Algodoo/data/language/Español.cfg"
+    3450 ms: Looking for DCS API...
+    3450 ms: Failed to find DcsSdkDll.dll
+    3450 ms: No joysticks detected
+    3450 ms: Subsystem initialized
+    3450 ms: Qt version: 6.4.3
+    3450 ms: ------------------------------------------------------
+    3450 ms: CPU: AMD Ryzen 7 4700U with Radeon Graphics         
+    3450 ms: 8 cores at 2000 MHz
+    3450 ms: CPU features:
+    3450 ms:   MMX    - yes
+    3450 ms:   SSE    - yes
+    3450 ms:   SSE2   - yes
+    3450 ms:   SSE3   - yes
+    3450 ms: 
+    3450 ms: Windows 11
+    3450 ms: ------------------------------------------------------
+    3450 ms: argv[0] == "C:\Program Files\Algodoo\Algodoo.exe"
+    3450 ms: Failed to open registry key: El sistema no puede encontrar el archivo especificado. (error code 00000002)
+    3450 ms: Threadpool...
+    3450 ms: Resources...
+    3452 ms: Initializing Pango...
+    6748 ms: Fontconfig dir:   C:/Program Files/Algodoo/fonts/conf.d
+    6748 ms: Fontconfig cache: C:/Users/david.mgutierrez/AppData/Local/fontconfig/cache
+    6748 ms: Fontconfig cache: C:/Users/david.mgutierrez/.cache/fontconfig
+    6748 ms: Fontconfig cache: C:/Users/david.mgutierrez/.fontconfig
+    6749 ms: Fontconfig fonts found: 243
+    6749 ms: PangoCairo backend (should be 1): 1
+    6750 ms: Pango font families found: 76
+    6751 ms: Pango initialized
+    6753 ms: Skin::OnSkinChange...
+    6753 ms: Borders::Reload...
+    6926 ms: Skin::RemakeTextDrawers...
+    6926 ms: Looking for usable font...
+    6940 ms: Simulation...
+    6940 ms: SPH...
+    6940 ms: Scene...
+    6940 ms: Input...
+    6940 ms: Classmate...
+    6940 ms: GUI...
+    6940 ms: Adding console...
+    6940 ms: Adding Reflection...
+    6940 ms: Adding Language...
+    6940 ms: Adding Tools...
+    6940 ms: Adding EntityModifier...
+    6940 ms: Starting application...
+    6940 ms: Loading chains...
+    6941 ms: Loading Algodoo/chains/chain.phn...
+    6941 ms: Deserializing code...
+    6954 ms: Code deserialized
+    6955 ms: Imported phunlet Algodoo/chains/chain.phn
+    6956 ms: Loading Algodoo/chains/rope.phn...
+    6956 ms: Deserializing code...
+    6967 ms: Code deserialized
+    6967 ms: Imported phunlet Algodoo/chains/rope.phn
+    6968 ms: Initializing thread-pool...
+    6968 ms: Application created
+    6968 ms: Parsing Algodoo/thyme.cfg...
+    6986 ms: Done parsing Algodoo/thyme.cfg.
+    6986 ms: Parsing Algodoo/autoexec.cfg...
+    7019 ms: Done parsing Algodoo/autoexec.cfg.
+    7019 ms: First time running or new config - setting default window size
+    7019 ms: Subsystem::CreateTheWindow
+    7019 ms: Creating window...
+    7046 ms: Setting device pixel ratio to 1.25
+    7046 ms: * SCOPE BEGIN: QTWindow::resizeEvent
+    7046 ms: * SCOPE END:   QTWindow::resizeEvent
+    7113 ms: * SCOPE BEGIN: QResizeEvent
+    7113 ms:    QEvent::Resize from [1344, 672] to [1536, 864]
+    7113 ms: * SCOPE END:   QResizeEvent
+    7114 ms: * SCOPE BEGIN: QResizeEvent
+    7114 ms:    QEvent::Resize from [-1, -1] to [1536, 864]
+    7114 ms: * SCOPE END:   QResizeEvent
+    7114 ms: * SCOPE BEGIN: QTWindow::resizeEvent
+    7114 ms: * SCOPE END:   QTWindow::resizeEvent
+    7163 ms: GLWidget::showEvent
+    7276 ms: Init GLEW...
+    7294 ms: Unloading GL resources...
+    7294 ms: Done Unloading GL resources
+    7294 ms: OSImpl::OnWindowCreated, hwnd = 00000000000704BA
+    7294 ms: LoadTouchAPI
+    7294 ms: Touch API loaded.
+    7294 ms: Orientation locked to landscape
+    7294 ms: Looking for accelerometer...
+    7306 ms: Unable to find any sensors on the computer.
+    7306 ms: Window created.
+    7306 ms: Setting root container size to [1920, 1080] (scale = 1)
+    7306 ms: Looking for tablet...
+    7306 ms: No tablet found (or Wintab32.dll missing)
+    7306 ms: First time running Algodoo
+    7306 ms: Loading default skin...
+    7306 ms: Loading skin "default"...
+    7306 ms: ShowLoading: "Loading skin..."
+    7320 ms: Reloading textures...
+    7320 ms: ShowLoading: "Reloading textures..."
+    7320 ms: Reloading all images...
+    7320 ms: ShowLoading: "Loading images..."
+    7329 ms: Reloading class rendering::Texture
+    7340 ms: Resource loading done.
+    7340 ms: Reloading textures... DONE
+    7340 ms: AppGUI::CreateGUI(recreate=true)...
+    7340 ms: Skin::OnSkinChange...
+    7340 ms: Borders::Reload...
+    7371 ms: Skin::RemakeTextDrawers...
+    7371 ms: Looking for usable font...
+    7374 ms: Creating menu bar...
+    7420 ms: Naming widgets...
+    7420 ms: AppGUI::CreateGUI done.
+    7420 ms: Skin loaded
+    7420 ms: Web...
+    7422 ms: Prefetching resources...
+    7422 ms: Prefetching textures...
+    8810 ms: Prefetching shaders...
+    8927 ms: Prefetching done.
+    8927 ms: Creating GUI...
+    8927 ms: AppGUI::CreateGUI(recreate=true)...
+    8927 ms: Skin::OnSkinChange...
+    8927 ms: Borders::Reload...
+    8927 ms: Skin::RemakeTextDrawers...
+    8927 ms: Looking for usable font...
+    8927 ms: Serializing widgets...
+    8927 ms: Removing widgets...
+    8928 ms: Restoring widgets...
+    8928 ms: Naming widgets...
+    8928 ms: AppGUI::CreateGUI done.
+    8928 ms: App::CreateGUI done
+    8928 ms: AppGUI::OnFirstTimeRunning
+    8949 ms: Loading scene...
+    8949 ms: Creating startup file...
+    8949 ms: ...for Scene_Welcome...
+    8950 ms: AppGUI::LoadScene "Intro scene.phz", automatic = true
+    8950 ms: ShowLoading: "Loading scene..."
+    8950 ms: Loading Algodoo/scenes/Intro scene.phz...
+    8951 ms: Deserializing code...
+    8990 ms: Adding extra file: _pasted_0142.png
+    8997 ms: Adding extra file: _pasted_0152.png
+    9004 ms: Adding extra file: gold.png
+    9010 ms: Adding extra file: _pasted_0157.png
+    9018 ms: Adding extra file: _pasted_0113.png
+    9412 ms: Adding extra file: chain_link2.png
+    9414 ms: Adding extra file: _pasted_0138.png
+    9420 ms: Adding extra file: wood.png
+    9422 ms: Adding extra file: _pasted_0130.png
+    9424 ms: Adding extra file: _pasted_0148.png
+    9430 ms: Adding extra file: _pasted_0146.png
+    9439 ms: Adding extra file: _pasted_0116.png
+    9475 ms: Adding extra file: _pasted_0156.png
+    9483 ms: Adding extra file: _pasted_0159.png
+    9539 ms: Adding extra file: _pasted_0150.png
+    9546 ms: Adding extra file: rubber.png
+    9551 ms: Adding extra file: _pasted_0153.png
+    9559 ms: Adding extra file: stone.png
+    9564 ms: Adding extra file: ice.png
+    9569 ms: Adding extra file: chain_link1.png
+    9570 ms: Adding extra file: _pasted_0149.png
+    9579 ms: Adding extra file: _pasted_0137.png
+    9586 ms: Adding extra file: rope_round.png
+    9587 ms: Adding extra file: _pasted_0144.png
+    9595 ms: Adding extra file: _pasted_0147.png
+    9602 ms: Adding extra file: _pasted_0154.png
+    9609 ms: Adding extra file: steel.png
+    9631 ms: ShowLoading: "Loading code..."
+   10016 ms: - WARNING - Found crossing that went unfixed
+   11348 ms: - ERROR - AddContact: no such geoms
+   11369 ms: Code deserialized
+   11369 ms: Loaded scene Algodoo/scenes/Intro scene.phz
+   11370 ms: Removing startup file...
+   11370 ms: Permanently erasing file "Algodoo/_ONSTARTLOAD.txt"...
+   11370 ms: Running program...
+   11370 ms: Multi-texturing is supported
+   11370 ms: OS language: 0c0a
+   11371 ms: MakeWelcomeScreen()
+   11500 ms: ------------------------------------------------------
+   11500 ms: OpenGL vendor: ATI Technologies Inc.
+   11500 ms: OpenGL renderer: AMD Radeon(TM) Graphics
+   11500 ms: OpenGL version: 4.6.14761 Compatibility Profile Context 21.30.44.03 30.0.13044.3001
+   11500 ms: OpenGL shading language version: 4.60
+   11500 ms: OpenGL extensions: GL_AMDX_debug_output GL_AMD_blend_minmax_factor GL_AMD_conservative_depth GL_AMD_debug_output GL_AMD_depth_clamp_separate GL_AMD_draw_buffers_blend GL_AMD_framebuffer_sample_positions GL_AMD_gcn_shader GL_AMD_gpu_shader_half_float GL_AMD_gpu_shader_half_float_fetch GL_AMD_gpu_shader_int16 GL_AMD_gpu_shader_int64 GL_AMD_interleaved_elements GL_AMD_multi_draw_indirect GL_AMD_name_gen_delete GL_AMD_occlusion_query_event GL_AMD_performance_monitor GL_AMD_pinned_memory GL_AMD_query_buffer_object GL_AMD_sample_positions GL_AMD_seamless_cubemap_per_texture GL_AMD_shader_atomic_counter_ops GL_AMD_shader_stencil_export GL_AMD_shader_stencil_value_export GL_AMD_shader_trace GL_AMD_shader_trinary_minmax GL_AMD_sparse_texture GL_AMD_sparse_texture_pool GL_AMD_stencil_operation_extended GL_AMD_texture_cube_map_array GL_AMD_texture_texture4 GL_AMD_transform_feedback3_lines_triangles GL_AMD_transform_feedback4 GL_AMD_vertex_shader_layer GL_AMD_vertex_shader_viewport_index GL_ARB_ES2_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_compatibility GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_bindless_texture GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_color_buffer_float GL_ARB_compatibility GL_ARB_compressed_texture_pixel_storage GL_ARB_compute_shader GL_ARB_conditional_render_inverted GL_ARB_conservative_depth GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_distance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_depth_texture GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_elements_base_vertex GL_ARB_draw_indirect GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_program GL_ARB_fragment_program_shadow GL_ARB_fragment_shader GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_geometry_shader4 GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_imaging GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_multisample GL_ARB_multitexture GL_ARB_occlusion_query GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel_buffer_object GL_ARB_point_parameters GL_ARB_point_sprite GL_ARB_polygon_offset_clamp GL_ARB_program_interface_query GL_ARB_provoking_vertex GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_ballot GL_ARB_shader_bit_encoding GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_stencil_export GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_100 GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_shadow GL_ARB_shadow_ambient GL_ARB_sparse_buffer GL_ARB_sparse_texture GL_ARB_spirv_extensions GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_ARB_texture_barrier GL_ARB_texture_border_clamp GL_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map GL_ARB_texture_cube_map_array GL_ARB_texture_env_add GL_ARB_texture_env_combine GL_ARB_texture_env_crossbar GL_ARB_texture_env_dot3 GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_mirrored_repeat GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_snorm GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_transpose_matrix GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_program GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ARB_window_pos GL_ATI_draw_buffers GL_ATI_envmap_bumpmap GL_ATI_fragment_shader GL_ATI_separate_stencil GL_ATI_texture_compression_3dc GL_ATI_texture_env_combine3 GL_ATI_texture_float GL_ATI_texture_mirror_once GL_EXT_abgr GL_EXT_bgra GL_EXT_bindable_uniform GL_EXT_blend_color GL_EXT_blend_equation_separate GL_EXT_blend_func_separate GL_EXT_blend_minmax GL_EXT_blend_subtract GL_EXT_compiled_vertex_array GL_EXT_copy_buffer GL_EXT_copy_texture GL_EXT_depth_bounds_test GL_EXT_direct_state_access GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_draw_range_elements GL_EXT_fog_coord GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_geometry_shader4 GL_EXT_gpu_program_parameters GL_EXT_gpu_shader4 GL_EXT_histogram GL_EXT_memory_object GL_EXT_memory_object_win32 GL_EXT_multi_draw_arrays GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_packed_pixels GL_EXT_pixel_buffer_object GL_EXT_point_parameters GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_rescale_normal GL_EXT_secondary_color GL_EXT_semaphore GL_EXT_semaphore_win32 GL_EXT_separate_specular_color GL_EXT_shader_image_load_store GL_EXT_shader_integer_mix GL_EXT_shadow_funcs GL_EXT_stencil_wrap GL_EXT_subtexture GL_EXT_texgen_reflection GL_EXT_texture3D GL_EXT_texture_array GL_EXT_texture_buffer_object GL_EXT_texture_compression_bptc GL_EXT_texture_compression_latc GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_cube_map GL_EXT_texture_edge_clamp GL_EXT_texture_env_add GL_EXT_texture_env_combine GL_EXT_texture_env_dot3 GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_lod GL_EXT_texture_lod_bias GL_EXT_texture_mirror_clamp GL_EXT_texture_object GL_EXT_texture_rectangle GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_RG8 GL_EXT_texture_sRGB_decode GL_EXT_texture_shared_exponent GL_EXT_texture_snorm GL_EXT_texture_storage GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_IBM_texture_mirrored_repeat GL_INTEL_fragment_shader_ordering GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KTX_buffer_region GL_NV_alpha_to_coverage_dither_control GL_NV_blend_square GL_NV_conditional_render GL_NV_copy_depth_to_color GL_NV_copy_image GL_NV_depth_buffer_float GL_NV_explicit_multisample GL_NV_float_buffer GL_NV_half_float GL_NV_primitive_restart GL_NV_shader_atomic_int64 GL_NV_texgen_reflection GL_NV_texture_barrier GL_OES_EGL_image GL_SGIS_generate_mipmap GL_SGIS_texture_edge_clamp GL_SGIS_texture_lod GL_SUN_multi_draw_arrays GL_WIN_swap_hint WGL_EXT_swap_control
+   11500 ms: GLU version: 1.2.2.0 Microsoft Corporation
+   11500 ms: GLU extensions: GL_EXT_bgra
+   11501 ms: ------------------------------------------------------
+   11501 ms: ------------- START OF GAME LOOP -------------
+   11688 ms: Testing FBO support...
+   11688 ms: Non-PoT FBO:s supported
+   11688 ms: Pre-buffering scene...
+   11693 ms: Allocating new texture atlas (nr 1)
+   11697 ms: Allocating new texture atlas (nr 1)
+   11730 ms: Too large for AtlasGroup - creating fake atlas (_pasted_0113.png)
+   11877 ms: Allocating new texture atlas (nr 2)
+   11896 ms: Allocating new texture atlas (nr 3)
+   11916 ms: Allocating new texture atlas (nr 4)
+   11930 ms: Too large for AtlasGroup - creating fake atlas (_pasted_0159.png)
+   11938 ms: Allocating new texture atlas (nr 5)
+   11979 ms: Pre-buffering done.
+   11980 ms: TEX_ATLAS_User: 287 MiB
+   11980 ms: TEX_ATLAS_User:   Atlas (size: [2048, 2048], format: 0x1908, mipmap: true)  -  21.3 MiB
+   11980 ms: TEX_ATLAS_User:   Atlas (size: [2048, 2048], format: 0x1908, mipmap: true)  -  21.3 MiB
+   11980 ms: TEX_ATLAS_User:   Atlas (size: [2048, 2048], format: 0x1908, mipmap: true)  -  21.3 MiB
+   11980 ms: TEX_ATLAS_User:   Atlas (size: [2048, 2048], format: 0x1908, mipmap: true)  -  21.3 MiB
+   11980 ms: TEX_ATLAS_User:   Image "_pasted_0113.png" (size: [7770, 4051], format: 0x1908, mipmap: true)  -  160.1 MiB
+   11980 ms: TEX_ATLAS_User:   Atlas (size: [2048, 2048], format: 0x1908, mipmap: true)  -  21.3 MiB
+   11980 ms: TEX_ATLAS_User:   Image "_pasted_0159.png" (size: [3083, 1290], format: 0x1908, mipmap: true)  -  20.2 MiB
+   11980 ms: TEX_ATLAS_Distmap: 4 MiB
+   11980 ms: TEX_User: 8.5 MiB
+   11980 ms: TEX_Icon: 3.7 MiB
+   11980 ms: TEX_Border: 2.2 MiB
+   11980 ms: TEX_Text: 4.8 MiB
+   11980 ms: Total VRAM allocated: 310.5 MiB
+
+   11980 ms: Background::Init...
+   11980 ms: Loading images...
+   11982 ms: Background::Init done
+   11991 ms: Allocating new texture atlas (nr 1)
+   12036 ms: Wrapping skin texture - not eligible for Atlas (app/spring)
+  148028 ms: -------------  END OF GAME LOOP  -------------
+  148028 ms: Subsystem::Run returned, saving config...
+  148033 ms: Saving scene: Algodoo/scenes/_ONEXITSAVE.phz
+  148359 ms: Adding extra file to zip at: textures/_pasted_0142.png
+  148359 ms: Adding extra file to zip at: textures/_pasted_0152.png
+  148359 ms: Adding extra file to zip at: textures/gold.png
+  148359 ms: Adding extra file to zip at: textures/_pasted_0157.png
+  148359 ms: Adding extra file to zip at: textures/_pasted_0113.png
+  148359 ms: Adding extra file to zip at: textures/chain_link2.png
+  148359 ms: Adding extra file to zip at: textures/_pasted_0138.png
+  148359 ms: Adding extra file to zip at: textures/wood.png
+  148359 ms: Adding extra file to zip at: textures/_pasted_0130.png
+  148359 ms: Adding extra file to zip at: textures/_pasted_0148.png
+  148359 ms: Adding extra file to zip at: textures/_pasted_0146.png
+  148360 ms: Adding extra file to zip at: textures/_pasted_0116.png
+  148360 ms: Adding extra file to zip at: textures/_pasted_0156.png
+  148360 ms: Adding extra file to zip at: textures/_pasted_0159.png
+  148360 ms: Adding extra file to zip at: textures/_pasted_0150.png
+  148361 ms: Adding extra file to zip at: textures/rubber.png
+  148361 ms: Adding extra file to zip at: textures/_pasted_0153.png
+  148361 ms: Adding extra file to zip at: textures/stone.png
+  148361 ms: Adding extra file to zip at: textures/ice.png
+  148361 ms: Adding extra file to zip at: textures/chain_link1.png
+  148361 ms: Adding extra file to zip at: textures/_pasted_0149.png
+  148361 ms: Adding extra file to zip at: textures/_pasted_0137.png
+  148361 ms: Adding extra file to zip at: textures/rope_round.png
+  148361 ms: Adding extra file to zip at: textures/_pasted_0144.png
+  148361 ms: Adding extra file to zip at: textures/_pasted_0147.png
+  148361 ms: Adding extra file to zip at: textures/_pasted_0154.png
+  148362 ms: Adding extra file to zip at: textures/steel.png
+  148600 ms: Scene saved to Algodoo/scenes/_ONEXITSAVE.phz
+  148601 ms: Destroying GL resources
+  148602 ms: Destroying subsystem
+  148603 ms: Shutting down critical components
+  148604 ms: Destroying stuff

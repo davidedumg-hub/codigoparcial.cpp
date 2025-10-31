@@ -1,0 +1,23 @@
+{
+    "type": "HALF_OFFLINE",
+    "devTools": "",
+    "logLevel": "warn",
+    "logEnable": true,
+    "gpu": "",
+    "proxy": {
+        "enable": false,
+        "protocol": "http",
+        "host": "0.0.0.0",
+        "port": 0,
+        "username": "",
+        "password": ""
+    },
+    "onlineService": "https://pro.easyeda.com",
+    "updateService": "https://image.easyeda.com/files/easyeda-pro",
+    "systemLibName": "easyeda-std",
+    "firstRun": false,
+    "APP_PROJECT_DIR": [
+        "C:\\Users\\david.mgutierrez\\Documents\\EasyEDA-Pro\\projects",
+        "C:\\Users\\david.mgutierrez\\Documents\\EasyEDA-Pro\\example-projects"
+    ]
+}
